@@ -1,0 +1,7 @@
+app:
+  port: 50051
+postgresql:
+  name: "trello_users"
+  password: "12345"
+  user: "postgres"
+  port: "5432"
